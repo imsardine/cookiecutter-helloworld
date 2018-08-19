@@ -1,0 +1,6 @@
+{
+  "full_name": "Spider-Man",
+  "project_name": "My Awesome Project",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+  "back_compatible_py2": "y"
+}
